@@ -502,7 +502,7 @@
 Редактирование участка
 ^^^^^^^^^^^^^^^^^^^^^^
 
-Чтобы редактировать геокоординаты или атрибутивную информацию о каком-либо участке, обозначенном на карте, щелкните по нему левой клавишей мыши и во всплывающем сообщении нажмите на кнопку **Редактировать** |image8| (рис. 35).
+Чтобы редактировать геокоординаты или атрибутивную информацию о каком-либо участке, обозначенном на карте, щелкните по нему левой клавишей мыши и во всплывающем сообщении нажмите на кнопку **Редактировать** |image18| (рис. 35).
 
 .. figure:: _static/redaktirovanie_1.png
            :scale: 100 %
@@ -528,7 +528,7 @@
 Удаление участка
 ^^^^^^^^^^^^^^^^
 
-Чтобы удалить какой-либо участок, щелкните по нему на карте левой клавишей мыши и во всплывающем окне нажмите на кнопку **Редактировать** |image8| (рис. 37).
+Чтобы удалить какой-либо участок, щелкните по нему на карте левой клавишей мыши и во всплывающем окне нажмите на кнопку **Редактировать** |image18| (рис. 37).
 
 .. figure:: _static/udalenie_1.png
            :scale: 100 %
@@ -606,7 +606,7 @@
 .. |image5| image:: https://github.com/citoruspm/gektar/blob/master/source/_static/knopka_9.png?raw=true
 .. |image6| image:: https://github.com/citoruspm/gektar/blob/master/source/_static/knopka_10.png?raw=true
 .. |image7| image:: https://github.com/citoruspm/gektar/blob/master/source/_static/knopka_11.png?raw=true
-.. |image8| image:: https://github.com/citoruspm/gektar/blob/master/source/_static/knopka_7.png?raw=true
+.. |image8| image:: https://github.com/citoruspm/gektar/blob/master/source/_static/knopka_14.png?raw=true
 .. |image9| image:: https://github.com/citoruspm/gektar/blob/master/source/_static/knopka_8.png?raw=true
 .. |image10| image:: https://github.com/citoruspm/gektar/blob/master/source/_static/knopka_1.png?raw=true
 .. |image11| image:: https://github.com/citoruspm/gektar/blob/master/source/_static/knopka_5.png?raw=true
@@ -616,3 +616,4 @@
 .. |image15| image:: https://github.com/citoruspm/gektar/blob/master/source/_static/knopka_3.png?raw=true
 .. |image16| image:: https://github.com/citoruspm/gektar/blob/master/source/_static/knopka_6.png?raw=true
 .. |image17| image:: https://github.com/citoruspm/gektar/blob/master/source/_static/knopka_12.png?raw=true
+.. |image18| image:: https://github.com/citoruspm/gektar/blob/master/source/_static/knopka_7.png?raw=true
